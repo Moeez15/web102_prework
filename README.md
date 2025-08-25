@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - _Sea Monster Crowdfunding_
 
 Submitted by: **Moeez Ahmad**
 
@@ -10,23 +10,25 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x] The introduction section explains the background of the company and how many games remain unfunded.
-* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/46c1695df2e849c3b93f75f5be54e3db?sid=a9ac19b6-ba58-41e8-8bcc-e6976cccbe6f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough - Sea Monster Crowdfunding](https://www.loom.com/share/46c1695df2e849c3b93f75f5be54e3db?sid=a9ac19b6-ba58-41e8-8bcc-e6976cccbe6f)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
+GIF created with Loom
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
